@@ -9,11 +9,11 @@
 
 ## About Laravel
 Please Make this steps before running Project:
-1-add database file to your root in localhost.
-2-make this comand in cmd of project :
+<p>1-add database file to your root in localhost.</p>
+<p>2-make this comand in cmd of project :</p>
     composer update
-3-make these commends:
-   php artisan config:cache 
-   php artisan cache:clear 
+<p>3-make these commends:</p>
+  <p> php artisan config:cache </p>
+ <p>  php artisan cache:clear </p>
    
-Now you can run the project ,Thank you   
+<p>Now you can run the project ,Thank you  </p> 
