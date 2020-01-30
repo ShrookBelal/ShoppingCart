@@ -15,6 +15,8 @@ Please Make this steps before running Project:
 <p>3-make these commends:</p>
   <p> php artisan config:cache </p>
  <p>  php artisan cache:clear </p>
- <p> php artisan serve </p>
+ 
    
-<p>Now you can run the project ,Thank you  </p> 
+<p>Now you can run the project by this commend</p>
+    <p> php artisan serve </p>
+    <p>Thank you  </p> 
